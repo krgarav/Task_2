@@ -1,0 +1,17 @@
+#root {
+  padding: 2rem;
+  text-align: center;
+}
+
+.box {
+  width: 80%;
+  margin: 20px 100px;
+  
+}
+.box1 {
+  position: relative;
+  left: 70%;
+  width: 20%;
+  
+}
+
